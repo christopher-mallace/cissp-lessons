@@ -1,7 +1,7 @@
 # CISSP Master Learning Profile
 
-Last updated: 2026-11-05 22:49 ET
-Version marker: V2-TEST-20261105
+Last updated: 2026-11-05 23:10 ET
+Version marker: V3-DESTCERT-20261105
 Source: Quantum Exams, "CISSP: 10 Question Quiz" — analyzed by Darla
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -42,6 +42,16 @@ Exam: Mon Dec 21, 2026, 10:00 AM ET
 1. Domain 1: BCP/BIA/DR decision order
 2. Domain 1: Due care vs due diligence
 3. Domain 3: Side-channel vs covert channel + crypto distinctions
+
+## Lesson standard — DestCert answering strategy (standing requirement)
+Added 2026-11-05 at Christopher's direction; accepted by Rain as a standing instructional specification. This applies to every lesson Rain creates from this file, including any scheduled-task run.
+
+1. Coach Christopher, in every lesson, to apply DestCert's strategy for answering CISSP exam questions — and evaluate whether he used that strategy, not just whether his final answer was right.
+2. Every practice question / judgment scenario must be at equal difficulty to the real CISSP exam, or harder. No easier warm-up sets.
+3. Build questions the way CISSP asks them: loaded/tricky wording, qualifiers such as MOST / BEST / FIRST / PRIMARY, two or more plausible answers, a technician answer that looks right vs. the manager / risk-based answer CISSP wants, and correct process order mattering more than raw facts.
+4. Christopher must show the strategy in his answers: identify the qualifier, eliminate distractors step by step, and name the traps before choosing.
+5. A correct answer reached without using the strategy counts as incomplete — he redoes the reasoning. A wrong answer with sound strategy-based reasoning gets coached step by step, not just marked wrong.
+6. Pacing rule: if a delivered lesson is not yet completed and recorded in the Mastery log below, do not create a new lesson — re-present / remind on the incomplete lesson only. Lessons do not pile up.
 
 ## Lessons delivered
 - (none yet)
