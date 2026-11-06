@@ -1,7 +1,7 @@
 # CISSP Master Learning Profile
 
-Last updated: 2026-11-05 23:10 ET
-Version marker: V3-DESTCERT-20261105
+Last updated: 2026-11-05 23:39 ET
+Version marker: V4-LESSON1-20261105
 Source: Quantum Exams, "CISSP: 10 Question Quiz" — analyzed by Darla
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -54,7 +54,7 @@ Added 2026-11-05 at Christopher's direction; accepted by Rain as a standing inst
 6. Pacing rule: if a delivered lesson is not yet completed and recorded in the Mastery log below, do not create a new lesson — re-present / remind on the incomplete lesson only. Lessons do not pile up.
 
 ## Lessons delivered
-- (none yet)
+- 2026-11-05 — Lesson 1: Domain 1, BCP/BIA/DR decision order (Rain, in the "Recommend Shared Study Method" ChatGPT chat; generated manually ahead of the first scheduled run at Christopher's request)
 
 ## Mastery log
-- (none yet — Rain records mastered / partly understood / still weak here via Darla)
+- Lesson 1 (Domain 1: BCP/BIA/DR decision order) — DELIVERED 2026-11-05, completion PENDING: Christopher has not yet answered the final judgment scenario, so under Rule 6 the next run continues this lesson instead of starting a new one.
