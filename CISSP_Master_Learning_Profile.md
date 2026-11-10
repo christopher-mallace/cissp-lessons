@@ -1,7 +1,7 @@
 # CISSP Master Learning Profile
 
-Last updated: 2026-11-05 23:39 ET
-Version marker: V4-LESSON1-20261105
+Last updated: 2026-11-09 23:43 ET
+Version marker: V5-SOURCEQ-20261109
 Source: Quantum Exams, "CISSP: 10 Question Quiz" — analyzed by Darla
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -38,10 +38,14 @@ Exam: Mon Dec 21, 2026, 10:00 AM ET
 - Managerial judgment — chose the technical answer over the risk/policy answer
 - Distinction failure — could not separate two competing choices
 
+## Source questions — Missed Questions Appendix (added 2026-11-09)
+The actual questions behind every cluster in this profile are in the companion file `Missed_Questions_Appendix.md` in this repo (raw: https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/Missed_Questions_Appendix.md). Each missed question has a stable ID (MQ-01 … MQ-72) with the attempt/question number, a summary of what was asked, what Christopher picked, the correct answer, and the feedback point.
+**Rule for Rain:** fetch the appendix together with this profile. At the top of every lesson, cite the MQ IDs that spurred it. When Christopher asks which question(s) he got wrong behind a lesson or priority, answer from the appendix — do not say you cannot identify them.
+
 ## Next three instructional priorities
-1. Domain 1: BCP/BIA/DR decision order
-2. Domain 1: Due care vs due diligence
-3. Domain 3: Side-channel vs covert channel + crypto distinctions
+1. Domain 1: BCP/BIA/DR decision order — source questions: MQ-12, MQ-27, MQ-34, MQ-35, MQ-39, MQ-41, MQ-45, MQ-46, MQ-51, MQ-59, MQ-63
+2. Domain 1: Due care vs due diligence — source questions: MQ-11, MQ-24, MQ-36 (risk order: MQ-19, MQ-49)
+3. Domain 3: Side-channel vs covert channel + crypto distinctions — source questions: MQ-04, MQ-18, MQ-07, MQ-20, MQ-37, MQ-50, MQ-72
 
 ## Lesson standard — DestCert answering strategy (standing requirement)
 Added 2026-11-05 at Christopher's direction; accepted by Rain as a standing instructional specification. This applies to every lesson Rain creates from this file, including any scheduled-task run.
