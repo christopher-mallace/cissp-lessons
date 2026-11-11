@@ -1,7 +1,7 @@
 # CISSP Master Learning Profile
 
-Last updated: 2026-11-11 00:57 ET
-Version marker: V7-L1COMPLETE-20261111
+Last updated: 2026-11-11 01:05 ET
+Version marker: V8-SEPARATE-20261111
 Source: Quantum Exams, "CISSP: 10 Question Quiz" — analyzed by Darla
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -42,15 +42,10 @@ Exam: Mon Dec 21, 2026, 10:00 AM ET
 The actual questions behind every cluster in this profile are in the companion file `Missed_Questions_Appendix.md` in this repo (raw: https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/Missed_Questions_Appendix.md). Each missed question has a stable ID (MQ-01 … MQ-72) with the attempt/question number, a summary of what was asked, what Christopher picked, the correct answer, and the feedback point.
 **Rule for Rain:** fetch the appendix together with this profile. At the top of every lesson, cite the MQ IDs that spurred it. When Christopher asks which question(s) he got wrong behind a lesson or priority, answer from the appendix — do not say you cannot identify them.
 
-## Need-to-Know Drill List (added 2026-11-11)
-At Christopher's direction on 2026-11-11, Darla extracted from the DestCert Review Guides for all 8 domains everything the guides tell him he must know / memorize — every Core Concepts box and every blue side call-out, with the full answer from the guide (steps in order, models, definitions, formulas, values). That companion file is `DestCert_Need_To_Know_Drill_List.md` in this repo (raw: https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/DestCert_Need_To_Know_Drill_List.md). Coverage: 263 topics — D1: 34, D2: 16, D3: 71, D4: 38, D5: 31, D6: 19, D7: 36, D8: 18. Topics marked video-only in that file have no Guidebook, so there is nothing to drill from the guide for them; a few items are flagged in-file where the guide extract did not give full detail — do not invent answers for those.
-
-**Rule for Rain — drilling:** fetch the drill list together with this profile and the Missed Questions Appendix. Drill Christopher on these need-to-knows and ensure he actually understands them, not just that he has seen them:
-- Ask him to produce the list / order / definitions / formula unaided first (e.g. the Common Criteria steps and EAL levels in 3.2.7, the RMF steps in 1.9.11, RPO/RTO/WRT/MTD in 7.11.4) — do not show him the answer before he attempts it.
-- Then test application, not only recall: follow with a CISSP-style scenario at equal-or-harder difficulty, using the Lesson standard below (qualifiers MOST/BEST/FIRST/PRIMARY, plausible distractors, technician-vs-manager traps, process order), and grade his reasoning, not just his pick.
-- An item counts as understood only when he can both reproduce it unaided and apply it correctly in a scenario. If he misses either, coach it, re-drill it in that session, and mark it still weak in your reply so Darla can record it.
-- Work domain by domain, prioritising his weakest areas from the focus ranking above, and report at the end of each drill session which section IDs (e.g. 1.9.11, 3.2.7) he mastered and which are still weak. Darla remains the sole writer to this repo and will record those outcomes in the Mastery log.
-- Drilling under this section is a drill track Christopher requested on 2026-11-11; it is not a new numbered lesson for Pacing Rule 6 below, but Lesson 1's pending final judgment scenario remains outstanding and should not be silently dropped — tell Christopher how you are sequencing the two if there is a conflict.
+## Separation note — DestCert-based track is a DIFFERENT file (corrected 2026-11-11)
+This profile is the **Quantum-based** track only: its lessons are driven by Christopher's missed Quantum questions and the focus ranking above.
+DestCert-based drilling is a **separate track** with its own profile: `DestCert_Based_Profile.md` in this repo (raw: https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/DestCert_Based_Profile.md), based solely on the DestCert Review Guides (`DestCert_Need_To_Know_Drill_List.md`, 263 topics) in the guides' own order.
+**Rule for Rain:** do not merge the two tracks. Do not use this profile, its focus ranking, or the Missed Questions Appendix to pick or order DestCert drill items, and do not record DestCert drill outcomes in this file's Mastery log — they belong in `DestCert_Based_Profile.md`. For a Quantum-track lesson, fetch this profile + the appendix; for a DestCert drill session, fetch the DestCert profile + the drill list.
 
 ## Next three instructional priorities
 1. Domain 1: BCP/BIA/DR decision order — source questions: MQ-12, MQ-27, MQ-34, MQ-35, MQ-39, MQ-41, MQ-45, MQ-46, MQ-51, MQ-59, MQ-63
