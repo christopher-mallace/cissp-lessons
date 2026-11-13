@@ -1,7 +1,7 @@
 # DestCert-Based CISSP Profile — Need-to-Know Drilling
 
-Last updated: 2026-11-12 21:42 ET
-Version marker: V2-GUARDRAILS-20261112
+Last updated: 2026-11-13 06:05 ET
+Version marker: V3-TRANSCRIPTS-20261113
 Source: DestCert CISSP Review Guides, all 8 domains — extracted by Darla 2026-11-10/11
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -21,6 +21,26 @@ There are two separate Rain tracks in this repo, and they must not be merged:
 `DestCert_Need_To_Know_Drill_List.md` in this repo (raw: https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/DestCert_Need_To_Know_Drill_List.md) — every Core Concepts box and every blue side call-out from the DestCert Review Guides for all 8 domains, with the full answer from the guide (steps in order, models, definitions, formulas, values).
 Coverage: 263 topics — D1: 34, D2: 16, D3: 71, D4: 38, D5: 31, D6: 19, D7: 36, D8: 18.
 Topics marked video-only in that file have no Guidebook, so there is nothing to drill from the guide for them; a few items are flagged in-file where the guide extract did not give full detail — do not invent answers for those.
+
+## Instructor transcript layer — added 2026-11-13 (V3)
+Alongside the drill list there is now a second source layer in this repo: the DestCert course-video instructor material for Domains 1–6, one file per domain:
+- `DestCert-Transcripts-Domain-1.md` — full transcripts, 33 videos
+- `DestCert-Transcripts-Domain-2.md` — full transcripts, 14 videos
+- `DestCert-Transcripts-Domain-3.md` — full transcripts for videos 1–52; content summaries for videos 53–74
+- `DestCert-Transcripts-Domain-4.md` — content summaries, 43 videos
+- `DestCert-Transcripts-Domain-5.md` — content summaries, 25 videos
+- `DestCert-Transcripts-Domain-6.md` — content summaries, 16 videos
+(Raw links follow the same pattern as the drill list above, e.g. https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/DestCert-Transcripts-Domain-1.md)
+
+Each file ends with a **coverage appendix** mapping every video to the drill-list topics it supports. 205 main lesson videos in total; MindMap videos are not included.
+
+**How to use this layer in a drill session:**
+- When drilling a topic in Domains 1–6, also fetch that domain's transcript file, find the video(s) mapped to the topic in the coverage appendix, and let the instructor's spoken teaching inform your coaching and your scenario: his explanations, examples, comparisons, emphasis, and anything he explicitly flags as exam-important or explicitly flags as NOT on the exam.
+- The drill list still governs: section numbers, titles, order, and exact wording come from the drill list / Review Guides. Where a transcript summary or a video's phrasing differs from the guide (a few such tensions are flagged inside the files), the guide wording wins. The transcript layer never creates new drill items and never renumbers anything.
+- Do not invent answers for video-only or partial drill items from the transcript layer either. Two topics are only PARTIALLY covered by video — 3.5.15 (Cloud Migration & Protocols) and 4.2.8 (Endpoint Security) — coach those from the guide only and say the video layer is thin there.
+- Quality caution: transcripts are auto-captions. A handful of videos are flagged inside their files as having two wording versions or heavily fragmented captions — substance is reliable there, exact wording is not; do not quote or drill exact wording from a flagged video.
+- Domains 7 and 8 have NO transcript files — Christopher has not reviewed them yet. Do not expect, request, or invent instructor material for Domains 7–8; drill those domains from the guide list only.
+- The Teaching Guardrails below bind this layer too: verify before presenting, no invented material, no assessing untaught material, no premature progression.
 
 ## Order of drilling
 Follow the DestCert guides' own order: Domain 1 in section order, then Domain 2, and so on through Domain 8 — unless Christopher directs a specific domain or section in that session. Completeness across all 263 topics is the goal of this track, not targeting Quantum misses.
