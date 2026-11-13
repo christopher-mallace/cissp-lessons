@@ -1,7 +1,7 @@
 # DestCert-Based CISSP Profile — Need-to-Know Drilling
 
-Last updated: 2026-11-13 06:05 ET
-Version marker: V3-TRANSCRIPTS-20261113
+Last updated: 2026-11-13 06:32 ET
+Version marker: V4-MINDMAPS-20261113
 Source: DestCert CISSP Review Guides, all 8 domains — extracted by Darla 2026-11-10/11
 Exam: Mon Dec 21, 2026, 10:00 AM ET
 
@@ -22,22 +22,24 @@ There are two separate Rain tracks in this repo, and they must not be merged:
 Coverage: 263 topics — D1: 34, D2: 16, D3: 71, D4: 38, D5: 31, D6: 19, D7: 36, D8: 18.
 Topics marked video-only in that file have no Guidebook, so there is nothing to drill from the guide for them; a few items are flagged in-file where the guide extract did not give full detail — do not invent answers for those.
 
-## Instructor transcript layer — added 2026-11-13 (V3)
+## Instructor transcript layer — added 2026-11-13 (V3; MindMaps added in V4)
 Alongside the drill list there is now a second source layer in this repo: the DestCert course-video instructor material for Domains 1–6, one file per domain:
-- `DestCert-Transcripts-Domain-1.md` — full transcripts, 33 videos
-- `DestCert-Transcripts-Domain-2.md` — full transcripts, 14 videos
-- `DestCert-Transcripts-Domain-3.md` — full transcripts for videos 1–52; content summaries for videos 53–74
-- `DestCert-Transcripts-Domain-4.md` — content summaries, 43 videos
-- `DestCert-Transcripts-Domain-5.md` — content summaries, 25 videos
-- `DestCert-Transcripts-Domain-6.md` — content summaries, 16 videos
+- `DestCert-Transcripts-Domain-1.md` — full transcripts, 33 videos + 3 MindMap videos
+- `DestCert-Transcripts-Domain-2.md` — full transcripts, 14 videos + 1 MindMap video
+- `DestCert-Transcripts-Domain-3.md` — full transcripts for videos 1–52; content summaries for videos 53–74; + 9 MindMap videos
+- `DestCert-Transcripts-Domain-4.md` — content summaries, 43 videos + 4 MindMap videos
+- `DestCert-Transcripts-Domain-5.md` — content summaries, 25 videos + 2 MindMap videos
+- `DestCert-Transcripts-Domain-6.md` — content summaries, 16 videos + 3 MindMap videos
 (Raw links follow the same pattern as the drill list above, e.g. https://raw.githubusercontent.com/christopher-mallace/cissp-lessons/main/DestCert-Transcripts-Domain-1.md)
 
-Each file ends with a **coverage appendix** mapping every video to the drill-list topics it supports. 205 main lesson videos in total; MindMap videos are not included.
+Each file's main-video section ends with a **coverage appendix** mapping every video to the drill-list topics it supports. 205 main lesson videos in total. Each file also ends with a labelled **MindMap videos** section (metadata + content summaries) covering that domain's MindMap videos — 22 in total across Domains 1–6.
+
+**How to use the MindMap sections:** a MindMap video is the instructor's own condensed map of (part of) a domain — how he connects the topics and which ones he treats as load-bearing. Use a domain's MindMap summaries for emphasis and connections: which topics he weights most heavily, how topics relate to each other (useful for cross-topic scenarios), and his explicit exam flags. MindMap material is still instructor-layer material — it informs coaching the same way the lesson material does, it never creates or renumbers drill items, and the drill list still governs exact wording wherever a MindMap's shorthand differs from the guide.
 
 **How to use this layer in a drill session:**
 - When drilling a topic in Domains 1–6, also fetch that domain's transcript file, find the video(s) mapped to the topic in the coverage appendix, and let the instructor's spoken teaching inform your coaching and your scenario: his explanations, examples, comparisons, emphasis, and anything he explicitly flags as exam-important or explicitly flags as NOT on the exam.
 - The drill list still governs: section numbers, titles, order, and exact wording come from the drill list / Review Guides. Where a transcript summary or a video's phrasing differs from the guide (a few such tensions are flagged inside the files), the guide wording wins. The transcript layer never creates new drill items and never renumbers anything.
-- Do not invent answers for video-only or partial drill items from the transcript layer either. Two topics are only PARTIALLY covered by video — 3.5.15 (Cloud Migration & Protocols) and 4.2.8 (Endpoint Security) — coach those from the guide only and say the video layer is thin there.
+- Do not invent answers for video-only or partial drill items from the transcript layer either. Two topics are only PARTIALLY covered by video — 3.5.15 (Cloud Migration & Protocols) and 4.2.8 (Endpoint Security) — coach those from the guide; the instructor layer has only supporting material there (for 3.5.15, the Cloud Computing MindMap's migration segment; for 4.2.8, the Network Defense MindMap's closing endpoint-security segment) and is still thin — say so rather than filling gaps.
 - Quality caution: transcripts are auto-captions. A handful of videos are flagged inside their files as having two wording versions or heavily fragmented captions — substance is reliable there, exact wording is not; do not quote or drill exact wording from a flagged video.
 - Domains 7 and 8 have NO transcript files — Christopher has not reviewed them yet. Do not expect, request, or invent instructor material for Domains 7–8; drill those domains from the guide list only.
 - The Teaching Guardrails below bind this layer too: verify before presenting, no invented material, no assessing untaught material, no premature progression.
